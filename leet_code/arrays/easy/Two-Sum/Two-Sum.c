@@ -1,7 +1,5 @@
 
-#include <unistd.h>
 #include <stdlib.h>
-#include <stdio.h>
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize)
 {
@@ -32,19 +30,3 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize)
 	}
 	return NULL;
 }
-
-int main() {
-    int nums[] = {2, 7, 11, 15};
-    int target = 9;
-    int returnSize ;
-    int* result = twoSum(nums, 4, target, &returnSize);
-
-    printf("Test 1:\n");
-    for (int i = 0; i < returnSize; i++) {
-        printf("%d ", result[i]);
-    }
-    printf("\n");
-    free(result);
-    return 0;
-}
-

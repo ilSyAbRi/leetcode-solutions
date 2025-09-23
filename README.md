@@ -10,7 +10,7 @@ Both of us should try to see the other, or I try to be in the right place to get
 Really, if you do your best, you don’t have the right to stress about the future, so try to do what you can even if it’s not your best but it’s your best at that moment, and don’t worry about your position — just do, and let things happen to have a healthy relationship with the world 🌍💫.
 
 ```text
- 🥀
+ 🌸
 leet_code/
 ├─ arrays/
 │  ├─ easy/
@@ -29,9 +29,9 @@ leet_code/
 │  ├─ medium/
 │  └─ hard/
 └─ graphs/
-🪷 ├─ easy/
+🌺 ├─ easy/
 |  ├─ medium/
-|  └─ hard/                        ..ooo.
+|  └─ hard/                         ..ooo.
 |🍂 .../                           .888888888.
                                    88"P""T"T888 8o
                                o8o 8.8"8 88o."8o 8o
@@ -45,7 +45,7 @@ leet_code/
                                "88888ooo  888P".o888
                                  ""8P"".oooooo8888P
                            .oo888ooo.    8888NICK8P8
-                        o88888"888"88o.  "8888"".88   .oo888oo..
+                          o88888"888"88o.  "8888"".88   .oo888oo..
                           8888" "88 88888.       88".o88888888"888.
                          "8888o.""o 88"88o.    o8".888"888"88 "88P
                           T888C.oo. "8."8"8   o8"o888 o88" ".=888"
@@ -56,3 +56,4 @@ leet_code/
                                     "888" 88"    888888888""
                                         o8P       "888"""
                                                               (c) Nick 03.08.96
+

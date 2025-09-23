@@ -10,6 +10,7 @@ Both of us should try to see the other, or I try to be in the right place to get
 Really, if you do your best, you don’t have the right to stress about the future, so try to do what you can even if it’s not your best but it’s your best at that moment, and don’t worry about your position — just do, and let things happen to have a healthy relationship with the world 🌍💫.
 
 ```text
+ 🌷🪷🥀🌹💐
 leet_code/
 ├─ arrays/
 │  ├─ easy/
@@ -55,4 +56,5 @@ leet_code/
                                     "888" 88"    888888888""
                                         o8P       "888"""
  ascii art by : Nick 03.08.96
+
 

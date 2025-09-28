@@ -47,7 +47,7 @@ Each element in the array appears twice except for one element which appears onl
 
 ### solution prototype (c)
 ```c
-int dup_nb(int nb , int *nums, int numsSize)
+int singleNumber(int* nums, int numsSize)
 {
   // do code here
 }
